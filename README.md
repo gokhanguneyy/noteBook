@@ -12,12 +12,12 @@
 - Widget Bindings
 
 ## EKRAN GÖRÜNTÜLERİ
-![1](https://github.com/gokhanguneyy/noteBook/assets/101227317/87101127-5eb5-46cf-ba52-94a534f58439)
-![2](https://github.com/gokhanguneyy/noteBook/assets/101227317/24702555-4cb9-467f-ac0d-fb585ebcc917)
-![3](https://github.com/gokhanguneyy/noteBook/assets/101227317/8b95d8d2-106e-4ee8-8b7b-c102817c0a8e)
-![4](https://github.com/gokhanguneyy/noteBook/assets/101227317/96c663bf-39d5-40e2-9849-b27df50ebf21)
-![5](https://github.com/gokhanguneyy/noteBook/assets/101227317/e557ac91-802d-4111-974f-dec1606fe931)
-![6](https://github.com/gokhanguneyy/noteBook/assets/101227317/96658c93-ca10-4d04-819c-6419efb45237)
+![1](https://github.com/gokhanguneyy/noteBook/assets/101227317/cda6dfc0-03f2-4ba9-80f4-f42c90e3fa31)
+![2](https://github.com/gokhanguneyy/noteBook/assets/101227317/deebf636-5e65-44b0-aecf-8632c351d0a7)
+![3](https://github.com/gokhanguneyy/noteBook/assets/101227317/4bc0703b-14ea-42da-a339-12c74445d414)
+![4](https://github.com/gokhanguneyy/noteBook/assets/101227317/0320d5a9-b46c-4190-8288-049c70819bc6)
+![5](https://github.com/gokhanguneyy/noteBook/assets/101227317/d6f62d25-c30e-42db-a55e-b372b9f56026)
+![6](https://github.com/gokhanguneyy/noteBook/assets/101227317/5b742fed-9b14-4399-9831-0dfdca80648b)
 
 
 
